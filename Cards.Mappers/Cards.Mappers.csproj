@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cards.Repository\Cards.Repository.csproj" />
+    <ProjectReference Include="..\Cards.Responses\Cards.Responses.csproj" />
+  </ItemGroup>
+
+</Project>

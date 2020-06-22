@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Cards.Responses\\Cards.Responses.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Cards.Domain\\Cards.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Cards.Domain\\Cards.Domain.csproj",
+        "projectName": "Cards.Domain",
+        "projectPath": "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Cards.Domain\\Cards.Domain.csproj",
+        "packagesPath": "C:\\Users\\gcifguvercin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Cards.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gcifguvercin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Products.Domain\\Products.Domain.csproj": {
+                "projectPath": "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Products.Domain\\Products.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Cards.Responses\\Cards.Responses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Cards.Responses\\Cards.Responses.csproj",
+        "projectName": "Cards.Responses",
+        "projectPath": "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Cards.Responses\\Cards.Responses.csproj",
+        "packagesPath": "C:\\Users\\gcifguvercin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Cards.Responses\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gcifguvercin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Cards.Domain\\Cards.Domain.csproj": {
+                "projectPath": "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Cards.Domain\\Cards.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Products.Domain\\Products.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Products.Domain\\Products.Domain.csproj",
+        "projectName": "Products.Domain",
+        "projectPath": "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Products.Domain\\Products.Domain.csproj",
+        "packagesPath": "C:\\Users\\gcifguvercin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gcifguvercin\\Desktop\\CicekSepeti\\Products.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gcifguvercin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
