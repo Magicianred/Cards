@@ -1,5 +1,7 @@
 # CardsCommandsAPI
  
+ASP NET Core API for adding product to Shopping Cart
+
 Requirements
 -----------------
 
